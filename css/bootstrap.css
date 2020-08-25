@@ -1,4 +1,4 @@
-/*!
+    /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
@@ -142,7 +142,7 @@ input::-moz-focus-inner {
 }
 input {
   line-height: normal;
-  }
+}
 input[type="checkbox"],
 input[type="radio"] {
   -webkit-box-sizing: border-box;
@@ -190,7 +190,7 @@ th {
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
-   *:before,
+  *:before,
   *:after {
     color: #000 !important;
     text-shadow: none !important;
@@ -734,7 +734,7 @@ th {
 }
 .glyphicon-sort-by-alphabet:before {
   content: "\e151";
-  }
+}
 .glyphicon-sort-by-alphabet-alt:before {
   content: "\e152";
 }
@@ -1690,7 +1690,7 @@ pre code {
 }
 .col-xs-pull-2 {
   right: 16.66666667%;
-  }
+}
 .col-xs-pull-1 {
   right: 8.33333333%;
 }
@@ -2455,7 +2455,7 @@ table th[class*="col-"] {
   .table-responsive > .table {
     margin-bottom: 0;
   }
-  .table-responsive > .table > thead > tr > th,
+   .table-responsive > .table > thead > tr > th,
   .table-responsive > .table > tbody > tr > th,
   .table-responsive > .table > tfoot > tr > th,
   .table-responsive > .table > thead > tr > td,
@@ -5000,7 +5000,7 @@ a.badge:focus {
   .jumbotron .h1 {
     font-size: 63px;
   }
-  }
+}
 .thumbnail {
   display: block;
   padding: 4px;
@@ -6614,7 +6614,7 @@ button.close {
   td.visible-sm {
     display: table-cell !important;
   }
-  }
+}
 @media (min-width: 768px) and (max-width: 991px) {
   .visible-sm-block {
     display: block !important;
